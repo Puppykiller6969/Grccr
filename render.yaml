@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: edu
+    name: schoolaristotle
     env: docker
     plan: free
